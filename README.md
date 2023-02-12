@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharva-sardesai
 - 👀 I’m interested in Becoming a succesful developer
-- 🌱 I’m currently learning C++,Python,HTML
+- 🌱 I’m currently learning C++,Python,Java,JS
 - 💞️ I’m looking to collaborate on any project where I can learn alot
 - 📫 How to reach me : My insta handle : @_.atharva_9_
 
